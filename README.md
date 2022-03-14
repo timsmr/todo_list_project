@@ -15,7 +15,7 @@ Todo List is an app with the ability to Log In and add, edit and delete tasks.
 If you wanna check how it works:
 
 ```bash
-python install django
+pip install django
 ```
 
 ```bash
